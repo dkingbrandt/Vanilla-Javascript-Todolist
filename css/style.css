@@ -1,0 +1,64 @@
+body{
+background-image: url(../img/store1.jpg);
+}
+
+
+#content{
+    width: 700px;
+    height: auto;
+    display: flex;
+    margin: 0 auto;
+    
+
+}
+
+#main-section{
+    display: flex;
+    flex-flow: column wrap;
+    height: 700px;
+    width: 400px;
+    gap: 10px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 200px;    
+}
+
+section{
+    height: auto;
+	width: 600px;
+	padding: 5px;
+    border-radius:12px ;
+    background-color:rgba(245,245,245,0.95);
+}
+
+h2{
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+}
+
+button{
+   background-color: turquoise;
+   border-radius: 12px;
+  
+   
+   font-family: 'Courier New', Courier, monospace;
+   font-weight: 800;
+   height: 30px;
+}
+ 
+input{
+     height: 20px;
+     
+}
+
+.innerbox1{
+    margin-bottom: 20px;;
+}
+
+
+
+
+
+
